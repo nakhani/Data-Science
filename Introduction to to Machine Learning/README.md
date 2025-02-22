@@ -18,7 +18,7 @@ This repository includes assignments and projects on core machine learning conce
 
 - Using Rapidminer  first I convert Mnist dataset to .CSV file then I use auto model:
 
-  <img src="training data/Untitled.png" > 
+  <img src="training data/Untitled.png" width= "300"> 
 
 
 - using Teachable Machine to train Mnist dataset 
