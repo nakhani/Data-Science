@@ -14,7 +14,14 @@ This repository includes assignments and projects on core machine learning conce
 
    <img src="Mnist_dataset/Dataset/0/1.png" > <img src="Mnist_dataset/Dataset/1/1.png" > <img src="Mnist_dataset/Dataset/2/1.png" > <img src="Mnist_dataset/Dataset/3/1.png" > <img src="Mnist_dataset/Dataset/4/1.png" > <img src="Mnist_dataset/Dataset/5/1.png" > <img src="Mnist_dataset/Dataset/6/1.png" > <img src="Mnist_dataset/Dataset/7/1.png" > <img src="Mnist_dataset/Dataset/8/1.png" > <img src="Mnist_dataset/Dataset/9/1.png" >
 
-### 2. RapidMiner
+### 2. Training data with Machin learning software
+
+- Using Rapidminer  first I convert Mnist dataset to .CSV file then I use auto model:
+
+  <img src="training data/Untitled.png" > 
+
+
+- using Teachable Machine to train Mnist dataset 
   
 
 
