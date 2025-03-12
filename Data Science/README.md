@@ -12,7 +12,7 @@ This project encompasses a variety of tasks that demonstrate data science techni
 
 ## Project Highlights
 
-### 1. Fruit Classification Problem (Apples 🍎 vs. Bananas 🍌 War)
+### 1. Fruit Classification (Apples 🍎 vs. Bananas 🍌)
 - This section implements a clustering algorithm to classify apples and bananas using their respective features (e.g., length, width, weight).
 - The code progresses to the **Visualization of the Training Process of the Clustering Algorithm**, where insights from the classification are displayed in an intuitive manner.
 
@@ -21,15 +21,15 @@ This project encompasses a variety of tasks that demonstrate data science techni
 
 ---
 
-### 2. Balloons 🎈 and Melons 🍈 Problem
+### 2. Balloons 🎈 and Melons 🍈 
 - Inspired by the Apples and Bananas task, this problem involves generating a dataset with random features (length, width, and weight) for **balloons** and **melons**.
 - Implements 3D plotting to visually compare the distributions of balloons and melons. This aids in understanding clustering and feature differentiation in higher dimensions.
 
   **Output:**
-       <img src="balloon_melon/Figure_1.png" width = "300">
+       <img src="balloon_melon/Figure_1.png" width = "500">
 ---
 
-### 3. California Cities Problem
+### 3. California Cities 
 - This task analyzes the **area and population** of cities in California.
 - Incorporates geographic data (latitude and longitude) and population metrics to create a scatterplot visualizing city size and population density.
 - The plot uses advanced features like color scales (population log) and size scaling (area).
