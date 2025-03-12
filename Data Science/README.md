@@ -29,7 +29,7 @@ This project encompasses a variety of tasks that demonstrate data science techni
 **Output:**
 
 
-<img src="balloon_melon/Figure_1.png" width = "500">
+<img src="balloon_melon/Figure_1.png" width = "300">
 ---
 
 ### 3. California Cities 
