@@ -4,14 +4,14 @@ from mpl_toolkits.mplot3d import Axes3D
 
 
 
-balloon_width = np.random.normal(4, 1, 400)
-balloon_height = np.random.normal(9, 1, 400)
-balloon_weight = np.random.normal(2, 0.5, 400)
+balloon_width = np.random.normal(60, 15, 100)
+balloon_height = np.random.normal(80, 30, 100)
+balloon_weight = np.random.normal(2, 30, 100)
 
 
-melon_width = np.random.normal(6, 2, 400)
-melon_height = np.random.normal(6, 2, 400)
-melon_weight = np.random.normal(3, 1, 400)
+melon_width = np.random.normal(60, 30, 100)
+melon_height = np.random.normal(60, 10, 100)
+melon_weight = np.random.normal(75, 30, 100)
 
 
 fig = plt.figure()
