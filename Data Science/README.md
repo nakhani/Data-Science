@@ -4,7 +4,7 @@ This project encompasses a variety of tasks that demonstrate data science techni
 
 ---
 
-### 1. Background on Data Science
+### Background on Data Science
 - Contemporary data scientists come from diverse academic and professional backgrounds, such as engineering, statistics, and physics.
 - A degree in fields like statistics or engineering can be helpful but is not a strict requirement for success in the data science domain.
 
