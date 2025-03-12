@@ -1,6 +1,6 @@
 # Data Science 
 
-Welcome to the **Data Science** repository! This project encompasses a variety of tasks that demonstrate data science techniques, visualization approaches, and problem-solving skills. It includes practical implementations like fruit classification, geographic population analysis, and creative feature representation. 
+This project encompasses a variety of tasks that demonstrate data science techniques, visualization approaches, and problem-solving skills. It includes practical implementations like fruit classification, geographic population analysis, and creative feature representation. 
 
 ---
 
