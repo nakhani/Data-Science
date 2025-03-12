@@ -17,7 +17,8 @@ This project encompasses a variety of tasks that demonstrate data science techni
 - The code progresses to the **Visualization of the Training Process of the Clustering Algorithm**, where insights from the classification are displayed in an intuitive manner.
 
   **Output:**
-     <img src="apple_banana/1.png" width = "300">
+
+    <img src="apple_banana/1.png" width = "300">
 
 ---
 
@@ -26,7 +27,9 @@ This project encompasses a variety of tasks that demonstrate data science techni
 - Implements 3D plotting to visually compare the distributions of balloons and melons. This aids in understanding clustering and feature differentiation in higher dimensions.
 
   **Output:**
-       <img src="balloon_melon/Figure_1.png" width = "500">
+
+
+    <img src="balloon_melon/Figure_1.png" width = "500">
 ---
 
 ### 3. California Cities 
@@ -35,7 +38,8 @@ This project encompasses a variety of tasks that demonstrate data science techni
 - The plot uses advanced features like color scales (population log) and size scaling (area).
 
    **Output:**
-       <img src="california_cities/output.png" width = "300">
+
+    <img src="california_cities/output.png" width = "300">
 
 ---
 
