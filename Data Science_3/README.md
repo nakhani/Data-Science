@@ -1,6 +1,7 @@
 # Data Science 
 
 we explore exciting datasets and perform advanced data analyses! This repository includes two major projects: an analysis of **billionaires 🤑** and an in-depth exploration of **Lionel Messi's ⚽️ scoring** history. Each project provides insights, visualizations, and thought-provoking questions.
+
 ---
 
 ## 1. Billionaires Analysis 🤑
@@ -59,7 +60,7 @@ This project focuses on analyzing **Lionel Messi's goals** and gaining insights 
 ## How to Run the Code
 1. Clone the repository:
    ```sh
-   https://github.com/nakhani/Data-Science/tree/ff8b9e02460849eaeaec511cb308c938aeb6f5c3/Data%20Science
+   https://github.com/nakhani/Data-Science/tree/b6af5fd4152bac710fcaa83dff70354d3595818e/Data%20Science_3
    ```
 
 2. Navigate to the directory:
