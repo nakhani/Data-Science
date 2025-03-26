@@ -5,37 +5,37 @@ This repository contains various projects focusing on **Machine Learning** and *
 
 ## Projects
 
-### 1. **Introduction to Machine Learning**
+### **Introduction to Machine Learning**
 - This project explores fundamental concepts in machine learning, including **dataset creation** and **learning tools**.
 
 ---
 
-### 2. **Data Science**
+### **Data Science**
 - A collection of data science challenges, including  **fruit classification problems**, and **California city** analysis.
 
 ---
 
-### 3. **COVID-19 🦠 Analysis**
+### **COVID-19 🦠 Analysis**
 - An exploration of COVID-19 data, focusing on country-wise cases and specific trends in Iran.
 
 ---
 
-### 4. **DigiKala 📦 Analysis**
+### **DigiKala 📦 Analysis**
 - An analysis of DigiKala retail data to understand customer behavior and order trends.
 
 ---
 
-### 5. **Billionaires 🤑 Analysis**
+### **Billionaires 🤑 Analysis**
 - Insights into the world's billionaires, exploring their ages, wealth distribution across countries, and comparative statistics.
 
 ---
 
-### 6. **Lionel Messi 🏃🏻‍♂️ Analysis**
+### **Lionel Messi 🏃🏻‍♂️ Analysis**
 - An analysis of Lionel Messi's performance data, including his goals per year, penalty trends, and match outcomes.
 
 ---
 
-### 7. **Online Retail Data Analysis**
+### **Online Retail Data Analysis**
 - This project analyzes online retail data to uncover monthly revenue, customer trends, and key business metrics using comprehensive data analysis techniques.  
 
 ---
