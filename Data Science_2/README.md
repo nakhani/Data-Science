@@ -1,71 +1,116 @@
 # Data Science 
-
-we explore exciting datasets and perform advanced data analyses! This repository includes two major projects: an analysis of **billionaires 🤑** and an in-depth exploration of **Lionel Messi's ⚽️ scoring** history. Each project provides insights, visualizations, and thought-provoking questions.
-
----
-
-## 1. Billionaires Analysis 🤑
-In this section, we analyze data from the **Forbes Billionaires of 2021** dataset to uncover insights about the wealthiest individuals around the world. Below are the main tasks and their outputs:
-
-- **Calculate the Mean and Variance of the Ages** of the world's billionaires.
-
-   <img src="Billionaires/results/data_age.png" width="400">
-
-- **Calculate the Total Wealth Per Country**.
-
-     <img src="Billionaires/results/sum_of_wealth.png" width="400">
-
-- **Visualize the Top 10 Richest Americans** along with their wealth on a chart.
-
-     <img src="Billionaires/results/top_10_wealthiest_people.png" width="400">
-
-- **Visualize the 10 Countries With the Fewest Billionaires** and their counts on a chart.
-
-     <img src="Billionaires/results/10_fewest_countries.png" width="400">
-
+This repository contains various data science projects, including analyses of **COVID-19** data and insights into **online retail** data and also **DigiKala** dataset. Each project is structured with tasks, analyses, and visual outputs.
 
 ---
 
-## 2. Lionel Messi's Scoring History 🏃🏻‍♂️
-This project focuses on analyzing **Lionel Messi's goals** and gaining insights into his performance over time. Below are the analyses:
-
-- **Preprocess the Date Column to Extract Years**, then visualize the number of goals Messi scored each year on a chart.
-
-     <img src="Lionel Messi/results/goals_score_year.png" width="400">
-
-- **Analyze Messi's Penalty Goals**, he use his Left Foot more.
-
-     <img src="Lionel Messi/results/left_foot.png" width="400">
-
-- **Calculate the Percentage of Extra-Time Goals That Resulted in Victories** and visualize it on a chart.
-
-     <img src="Lionel Messi/results/extra_time.png" width="400">
+## Projects
 
 
-- **Calculate the Percentage of Messi's Goals That Were Equalizers**.
+### 1. **Online Retail**
+- **Objective**: Analyze and identify key events and trends related to online retail during April.
+- **Dataset Address**: [Online Retail Dataset on Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
-     <img src="Lionel Messi/results/tied_goals.png" width="400">
 
+#### A. Monthly Revenue
+   - **Task**: Calculate the total revenue for each month.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/monthly_revenue.png" width="400">
+     
+
+#### B. Monthly Revenue Growth Rate
+   - **Task**: Analyze the month-over-month revenue growth rate.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/growth_rate.png" width="400">
+     
+
+#### C. Monthly Active Customers
+   - **Task**: Identify the number of active customers for each month.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/active_customers.png" width="400">
+     
+
+#### D. Monthly Order Count
+   - **Task**: Calculate the number of orders for each month.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/total_order.png" width="400">
+     
+
+#### E. Average Revenue per Order
+   - **Task**: Compute the average revenue per order.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/order_avg.png" width="400">
+     
+
+#### F. New Customer Ratio
+   - **Task**: Analyze the ratio of new customers each month.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/customer_ratio.png" width="400">
+     
+
+#### G. New Customers vs Existing Customers
+   - **Task**: Compare the number of new customers to existing customers each month.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/new_vs_existing.png" width="400">
+     
+
+#### H. Monthly Retention Rate
+   - **Task**: Calculate the retention rate of customers on a monthly basis.
+   - **Result Visualization**:
+     
+     <img src="Online Retai/results/retention_rate.png" width="400">
+     
 
 ---
 
-## Repository Highlights ✨
-- **Visualization**: Clean, professional charts are used to provide insights for each task.
-- **Data Manipulation**: Includes preprocessing, aggregation, and feature engineering techniques.
-- **Advanced Analytics**: Explores statistical calculations and meaningful percentages.
-- **Clear Results**: Each task includes outputs and interpretations for clarity.
+### 2. **COVID-19 🦠**
+Location: [COVID-19 Project on GitHub](https://github.com/SajjadAemmi/PyLearn/tree/main/5.DataScience/Covid-19)
+
+#### A. Names of the 8 Countries with the Highest COVID-19 Cases in April 2020
+- **Task**: Identify and display the top 8 countries with the highest number of COVID-19 cases during the fourth month of 2020.
+- **Result Visualization**:
+
+  <img src="COVID-19/results/8_countries.png" width="400">
+
+#### B. Death Rate in Iran on Different Days
+- **Task**: Plot the death rate for Iran over different days.
+
+  <img src="COVID-19/results/Iran_death_rate.png" width="400">
+
+---
+
+### 3. **DigiKala 📦 Analysis**
+Location: [DigiKala Project on GitHub](https://github.com/SajjadAemmi/PyLearn/tree/main/5.DataScience/Digikala/digikala_dataset)
+
+#### A. Orders Count Per Month
+- **Task**: Analyze the number of orders for each month and plot the results.
+- **Result Visualization**:
+
+  <img src="Digikala/results/orders_per_month.png" width="400">
+
+#### B. Customers Count Per City
+- **Task**: Create a pie plot to display the count of customers in each city.
+- **Result Visualization**:
+
+  <img src="Digikala/results/per_city.png" width="400">
 
 ---
 
 ## How to Run the Code
 1. Clone the repository:
    ```sh
-   https://github.com/nakhani/Data-Science/tree/b6af5fd4152bac710fcaa83dff70354d3595818e/Data%20Science_3
+   https://github.com/nakhani/Data-Science/tree/cbe1628d2d9166f5e18caaafd4db6969aac1dc87/Data%20Science_2
    ```
 
 2. Navigate to the directory:
    ```sh
-   Data Science_3
+   Data Science_2
    ```
 
 3. Install the required packages:
@@ -76,8 +121,10 @@ This project focuses on analyzing **Lionel Messi's goals** and gaining insights 
 4. Run the assignments:
 
    ```sh
-    jupyter notebook Billionaires.ipynb # For running Billionairs Dataset analysis code 
-    jupyter notebook lionel_messi.ipynb # For running Lionel Messi Dataset analysis code 
+    jupyter notebook covid19.ipynb # For running COVID-19-time-series Dataset analysis code 
+    jupyter notebook digikala.ipynb # For running Digikala-orders Dataset analysis code 
+    jupyter notebook onlineretail.ipynb # For running OnlineRetail Dataset analysis code 
+
    ```
 
 ## Technologies Used
