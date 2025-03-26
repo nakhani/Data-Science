@@ -35,7 +35,7 @@ This repository contains various projects focusing on **Machine Learning** and *
 
 ---
 
-## 7. **Online Retail Data Analysis**
+### 7. **Online Retail Data Analysis**
 - This project analyzes online retail data to uncover monthly revenue, customer trends, and key business metrics using comprehensive data analysis techniques.  
 
 ---
